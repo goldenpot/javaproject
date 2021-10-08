@@ -1,8 +1,13 @@
 package com.prathap.northstar;
 
-public class FirstClass {
+import java.util.HashMap;
+import java.util.Map;
 
-    public static void main(String args[]){
+public class FirstClass {
+    public static void main(String args[]) {
         System.out.println("Hare krishna");
+
+        Map<String,String> map = new HashMap<>();
+
     }
 }
